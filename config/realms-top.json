@@ -1,0 +1,334 @@
+[
+    {
+        "id": 4,
+        "name": "Kilrogg"
+    },
+    {
+        "id": 5,
+        "name": "Proudmoore"
+    },
+    {
+        "id": 9,
+        "name": "Kil'jaeden"
+    },
+    {
+        "id": 11,
+        "name": "Tichondrius"
+    },
+    {
+        "id": 12,
+        "name": "Farstriders"
+    },
+    {
+        "id": 47,
+        "name": "Eitrigg"
+    },
+    {
+        "id": 52,
+        "name": "Alleria"
+    },
+    {
+        "id": 53,
+        "name": "Eredar"
+    },
+    {
+        "id": 54,
+        "name": "Blackhand"
+    },
+    {
+        "id": 55,
+        "name": "Dentarg"
+    },
+    {
+        "id": 57,
+        "name": "Illidan"
+    },
+    {
+        "id": 58,
+        "name": "Stormreaver"
+    },
+    {
+        "id": 60,
+        "name": "Stormrage"
+    },
+    {
+        "id": 61,
+        "name": "Zul'jin"
+    },
+    {
+        "id": 63,
+        "name": "Durotan"
+    },
+    {
+        "id": 64,
+        "name": "Bloodhoof"
+    },
+    {
+        "id": 67,
+        "name": "Auchindoun"
+    },
+    {
+        "id": 69,
+        "name": "Arthas"
+    },
+    {
+        "id": 71,
+        "name": "Alterac Mountains"
+    },
+    {
+        "id": 73,
+        "name": "Bleeding Hollow"
+    },
+    {
+        "id": 75,
+        "name": "Argent Dawn"
+    },
+    {
+        "id": 76,
+        "name": "Sargeras"
+    },
+    {
+        "id": 77,
+        "name": "Azgalor"
+    },
+    {
+        "id": 78,
+        "name": "Altar of Storms"
+    },
+    {
+        "id": 84,
+        "name": "Akama"
+    },
+    {
+        "id": 86,
+        "name": "Borean Tundra"
+    },
+    {
+        "id": 96,
+        "name": "Andorhal"
+    },
+    {
+        "id": 99,
+        "name": "Arygos"
+    },
+    {
+        "id": 100,
+        "name": "Earthen Ring"
+    },
+    {
+        "id": 104,
+        "name": "Burning Blade"
+    },
+    {
+        "id": 106,
+        "name": "Aggramar"
+    },
+    {
+        "id": 113,
+        "name": "Darrowmere"
+    },
+    {
+        "id": 114,
+        "name": "Dragonblight"
+    },
+    {
+        "id": 115,
+        "name": "Draenor"
+    },
+    {
+        "id": 117,
+        "name": "Bronzebeard"
+    },
+    {
+        "id": 118,
+        "name": "Feathermoon"
+    },
+    {
+        "id": 120,
+        "name": "Darkspear"
+    },
+    {
+        "id": 121,
+        "name": "Azjol-Nerub"
+    },
+    {
+        "id": 125,
+        "name": "Blackwater Raiders"
+    },
+    {
+        "id": 127,
+        "name": "Drak'Tharon"
+    },
+    {
+        "id": 151,
+        "name": "Runetotem"
+    },
+    {
+        "id": 154,
+        "name": "Blackwing Lair"
+    },
+    {
+        "id": 155,
+        "name": "Deathwing"
+    },
+    {
+        "id": 157,
+        "name": "Coilfang"
+    },
+    {
+        "id": 158,
+        "name": "Greymane"
+    },
+    {
+        "id": 160,
+        "name": "Azuremyst"
+    },
+    {
+        "id": 162,
+        "name": "Emerald Dream"
+    },
+    {
+        "id": 163,
+        "name": "Lightninghoof"
+    },
+    {
+        "id": 1070,
+        "name": "Alexstrasza"
+    },
+    {
+        "id": 1071,
+        "name": "Kirin Tor"
+    },
+    {
+        "id": 1072,
+        "name": "Ravencrest"
+    },
+    {
+        "id": 1129,
+        "name": "Agamaggan"
+    },
+    {
+        "id": 1136,
+        "name": "Aegwynn"
+    },
+    {
+        "id": 1138,
+        "name": "Anub'arak"
+    },
+    {
+        "id": 1147,
+        "name": "Bladefist"
+    },
+    {
+        "id": 1151,
+        "name": "Misha"
+    },
+    {
+        "id": 1168,
+        "name": "Cairne"
+    },
+    {
+        "id": 1171,
+        "name": "Wyrmrest Accord"
+    },
+    {
+        "id": 1175,
+        "name": "Ghostlands"
+    },
+    {
+        "id": 1184,
+        "name": "Nazgrel"
+    },
+    {
+        "id": 1185,
+        "name": "Bloodscalp"
+    },
+    {
+        "id": 1190,
+        "name": "Baelgun"
+    },
+    {
+        "id": 1425,
+        "name": "Drakkari"
+    },
+    {
+        "id": 1426,
+        "name": "Aerie Peak"
+    },
+    {
+        "id": 1427,
+        "name": "Ragnaros"
+    },
+    {
+        "id": 1428,
+        "name": "Quel'Thalas"
+    },
+    {
+        "id": 3207,
+        "name": "Goldrinn"
+    },
+    {
+        "id": 3208,
+        "name": "Nemesis"
+    },
+    {
+        "id": 3209,
+        "name": "Azralon"
+    },
+    {
+        "id": 3234,
+        "name": "Gallywix"
+    },
+    {
+        "id": 3661,
+        "name": "Hyjal"
+    },
+    {
+        "id": 3675,
+        "name": "Moon Guard"
+    },
+    {
+        "id": 3676,
+        "name": "Area 52"
+    },
+    {
+        "id": 3678,
+        "name": "Thrall"
+    },
+    {
+        "id": 3683,
+        "name": "Dalaran"
+    },
+    {
+        "id": 3684,
+        "name": "Mal'Ganis"
+    },
+    {
+        "id": 3685,
+        "name": "Turalyon"
+    },
+    {
+        "id": 3693,
+        "name": "Kel'Thuzad"
+    },
+    {
+        "id": 3694,
+        "name": "Lightbringer"
+    },
+    {
+        "id": 3721,
+        "name": "Caelestrasz"
+    },
+    {
+        "id": 3723,
+        "name": "Barthilas"
+    },
+    {
+        "id": 3725,
+        "name": "Dreadmaul"
+    },
+    {
+        "id": 3726,
+        "name": "Aman'Thul"
+    }
+]
