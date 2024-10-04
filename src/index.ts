@@ -61,13 +61,13 @@ async function ParseAtlasLoot() {
     const reciperegex = /i\((\d+), (\d+)\);\s*--\s*(.*)/;
 
     for (const file of fs.readdirSync(
-        'E:/Play/wow-recipes/Addons/AllTheThings-Git/.contrib/Parser/DATAS/00 - Profession DB/'
+        './Addons/AllTheThings-Git/.contrib/Parser/DATAS/00 - Profession DB/'
     )) {
         if (!file.endsWith('.lua')) continue;
 
         const profession = file.replace('.lua', '');
         const filepath = path.join(
-            'E:/Play/wow-recipes/Addons/AllTheThings-Git/.contrib/Parser/DATAS/00 - Profession DB/',
+            './Addons/AllTheThings-Git/.contrib/Parser/DATAS/00 - Profession DB/',
             file
         );
         const fileStream = fs.createReadStream(filepath);
@@ -176,15 +176,15 @@ for (const id of realms.keys()) {
 }
 
 fs.writeFileSync(
-    './auctions.html',
+    './output/auctions.html',
     '<html><head></head><body><table><thead><tr></tr></thead><tbody>'
 );
 
 for (const [a, b] of items.entries()) {
     fs.appendFileSync(
-        './auctions.html',
+        './output/auctions.html',
         getTableRow(b, cheapestauctions.get(a))
     );
 }
 
-fs.appendFileSync('./auctions.html', '</tbody></table></body></html>');
+fs.appendFileSync('./output/auctions.html', '</tbody></table></body></html>');
